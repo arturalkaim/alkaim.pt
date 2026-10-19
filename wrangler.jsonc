@@ -4,6 +4,7 @@
   "assets": { "directory": "." },
   "routes": [
     { "pattern": "alkaim.pt", "custom_domain": true },
-    { "pattern": "www.alkaim.pt", "custom_domain": true }
+    { "pattern": "www.alkaim.pt", "custom_domain": true },
+    { "pattern": "artur.alkaim.pt", "custom_domain": true }
   ]
 }
