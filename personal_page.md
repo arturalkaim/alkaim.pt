@@ -24,14 +24,14 @@ LLM agents to do real engineering work without breaking prod.
 - **evalmy.page** — Landing-page evaluator — scores pages on human conversion and
   AI-agent readiness (ChatGPT/Claude/Perplexity discoverability), with LLM-powered
   headline & CTA rewrites. Next.js · Supabase · Playwright · Polar payments · Vercel. (● live)
-- **reddal.gg** — Esports ladders & tournaments — teams, challenges, results.
-  React · Node · MongoDB. (● live)
+- **farmane/** — Pixel-art browser games for the kids' birthdays — a farm-themed
+  journey from birth to the party, one per kid. (for fun)
 - **brandbassador/** — Led iOS + Android development for an international
   ambassador-marketing platform. Ionic · Angular · Node. (syone · 2016–18)
-- **archive/** — beautify.pt, where-to-eat, and other retired experiments.
+- **archive/** — reddal.gg (esports ladders; React · Node · MongoDB), beautify.pt, where-to-eat, and other retired experiments.
 
 ### Contact
-- Email: arturalkaim@gmail.com
+- Email: artur@alkaim.pt (Cloudflare Email Routing → Gmail)
 - GitHub: https://github.com/arturalkaim
 - LinkedIn: https://www.linkedin.com/in/arturalkaim/
 - X: https://x.com/arturalkaim
