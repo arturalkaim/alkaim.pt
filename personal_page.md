@@ -14,8 +14,7 @@ LLM agents to do real engineering work without breaking prod, and getting
 engineers to actually work with them.
 
 ### Now
-- Agentic dev tooling — review pipelines, verification harnesses, workflow orchestration on top of LLMs
-- AI adoption — helping developers bring AI tools into their day-to-day, and showing what works
+- Agentic dev tooling — building review pipelines, verification harnesses, and workflow orchestration on top of LLMs, and helping developers bring AI into their day-to-day
 - Squad tech lead at Nezasa — payments, sourcing, and infrastructure for TripBuilder
 - Mentoring engineers · devops & on-call rotation
 
