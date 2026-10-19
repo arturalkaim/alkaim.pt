@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artur Alkaim — writing</title>
+    <title>Artur Alkaim · writing</title>
     <link>https://alkaim.pt/</link>
     <atom:link href="https://alkaim.pt/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Notes on agentic dev tooling, AI adoption in engineering teams, and building software.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:00:00 +0000</lastBuildDate>
     <!-- newest first; copy an <item>, set lastBuildDate to the newest post's date -->
+    <item>
+      <title>The lazy way to AI</title>
+      <link>https://alkaim.pt/writing/the-lazy-way-to-ai</link>
+      <guid isPermaLink="true">https://alkaim.pt/writing/the-lazy-way-to-ai</guid>
+      <pubDate>Mon, 19 Oct 2026 20:00:00 +0000</pubDate>
+      <description>Lazy people find the easy way. For me, that meant AI coding tools, years before anyone asked me to use them.</description>
+    </item>
     <item>
       <title>Hello</title>
       <link>https://alkaim.pt/writing/hello</link>

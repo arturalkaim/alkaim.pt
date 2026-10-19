@@ -2,6 +2,7 @@
 ## Software Engineer · Lisbon
 
 Content source for alkaim.pt (index.html). Keep in sync when editing the page.
+Page copy uses no em dashes (see the artur-voice skill).
 
 ### Positioning
 Person-first: engineer in Lisbon, Nezasa mentioned but not the headline.
@@ -9,24 +10,24 @@ Design direction: "Phosphor" — terminal/monospace, dark-only, amber + cyan on 
 
 ### Hero
 Software engineer in Lisbon. Ten years across Scala, TypeScript, and the
-infrastructure underneath — currently squad tech lead at Nezasa, teaching
+infrastructure underneath. Currently squad tech lead at Nezasa, teaching
 LLM agents to do real engineering work without breaking prod, and getting
 engineers to actually work with them.
 
 ### Now
-- Dad first — raising a three-year-old, with a second boy on the way
-- Agentic dev tooling — building review pipelines, verification harnesses, and workflow orchestration on top of LLMs, and helping developers bring AI into their day-to-day
-- Squad tech lead at Nezasa — payments, sourcing, and infrastructure for TripBuilder
+- Dad first: raising a three-year-old, with a second boy on the way
+- Agentic dev tooling: building review pipelines, verification harnesses, and workflow orchestration on top of LLMs, and helping developers bring AI into their day-to-day
+- Squad tech lead at Nezasa: payments, sourcing, and infrastructure for TripBuilder
 - Mentoring engineers · devops & on-call rotation
 
 ### Work (ls ~/work)
 - **tripbuilder/** — Real-time personalised travel planning & booking. Payment-provider
-  integrations and platform scale — hundreds of features shipped while the company tripled.
+  integrations and platform scale, with hundreds of features shipped while the company tripled.
   Scala · TS · MongoDB · AWS. (nezasa · 2018→)
-- **evalmy.page** — Landing-page evaluator — scores pages on human conversion and
+- **evalmy.page** — Landing-page evaluator that scores pages on human conversion and
   on how well AI assistants like ChatGPT, Claude and Perplexity can find them, with LLM-powered
   headline & CTA rewrites. Next.js · Supabase · Playwright · Polar payments · Vercel. (● live)
-- **farmane/** — Pixel-art browser games for the kids' birthdays — a farm-themed
+- **farmane/** — Pixel-art browser games for the kids' birthdays: a farm-themed
   journey from birth to the party, one per kid. (for fun)
 - **brandbassador/** — Led iOS + Android development for an international
   ambassador-marketing platform. Ionic · Angular · Node. (syone · 2016–18)
@@ -53,4 +54,5 @@ list in index.html, and add an <item> to feed.xml
 off the site.
 
 Posts:
+- 2026-10-19 · The lazy way to AI (/writing/the-lazy-way-to-ai)
 - 2026-10-19 — Hello (/writing/hello)
