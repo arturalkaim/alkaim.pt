@@ -47,6 +47,9 @@ engineers to actually work with them.
 ### Writing (ls ~/writing)
 Posts live at writing/<slug>.html, served at https://alkaim.pt/writing/<slug>.
 To publish: copy templates/post.html (not deployed), fill the {{…}} placeholders,
-write the body in <article>. Not linked from the homepage yet — add an
-"ls ~/writing" section to index.html when the first post is ready. Drafts can be
-.md — .assetsignore keeps *.md and templates/ off the site.
+write the body in <article>, then add a row (newest first) to the "ls ~/writing"
+list in index.html. Drafts can be .md — .assetsignore keeps *.md and templates/
+off the site.
+
+Posts:
+- 2026-10-19 — Hello (/writing/hello)

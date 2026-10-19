@@ -102,6 +102,16 @@
       .ls-row { grid-template-columns: 1fr; gap: 3px; }
     }
 
+    /* writing */
+    .posts { margin: 0; padding: 0; list-style: none; }
+    .posts li { display: grid; grid-template-columns: 104px 1fr; gap: 16px; margin-bottom: 9px; }
+    .posts time { color: var(--dim); font-size: 13px; }
+    .posts a { text-decoration: none; }
+    .posts a:hover { text-decoration: underline; }
+    @media (max-width: 560px) {
+      .posts li { grid-template-columns: 1fr; gap: 0; }
+    }
+
     /* contact */
     .contact { display: flex; flex-wrap: wrap; gap: 10px 22px; margin: 0; padding: 0; }
     .contact a { text-decoration: none; font-size: 13.5px; }
@@ -165,6 +175,14 @@
           <span class="tag">rm -rf'd</span>
         </div>
       </div>
+    </section>
+
+    <section aria-labelledby="h-writing">
+      <h2 id="h-writing">ls ~/writing</h2>
+      <ul class="posts">
+        <!-- newest first -->
+        <li><time datetime="2026-10-19">2026-10-19</time><a href="/writing/hello">Hello</a></li>
+      </ul>
     </section>
 
     <section aria-labelledby="h-contact">
