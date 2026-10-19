@@ -14,6 +14,7 @@ LLM agents to do real engineering work without breaking prod, and getting
 engineers to actually work with them.
 
 ### Now
+- Dad first — raising a three-year-old, with a second boy on the way
 - Agentic dev tooling — building review pipelines, verification harnesses, and workflow orchestration on top of LLMs, and helping developers bring AI into their day-to-day
 - Squad tech lead at Nezasa — payments, sourcing, and infrastructure for TripBuilder
 - Mentoring engineers · devops & on-call rotation
