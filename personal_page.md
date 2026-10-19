@@ -31,8 +31,8 @@ engineers to actually work with them.
   Pixel-art platform games that tell a kid's life story, one level per year, with a birthday
   cake after each. One engine, one file per kid, shared leaderboard, frame-hash regression tests.
   JS · canvas. The games themselves are for the kids, not for the internet. (for the kids)
-- **brandbassador/** — Led iOS + Android development for an international
-  ambassador-marketing platform. Ionic · Angular · Node. (syone · 2016–18)
+- **brandbassador/** (links to https://club.co, the renamed platform) — Led iOS + Android development for an international
+  ambassador-marketing platform, now called Club. Ionic · Angular · Node. (syone · 2016–18)
 - **archive/** — reddal.gg (esports ladders; React · Node · MongoDB), beautify.pt, where-to-eat, and other retired experiments.
 
 ### Contact
