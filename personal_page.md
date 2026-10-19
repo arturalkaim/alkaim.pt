@@ -27,8 +27,10 @@ engineers to actually work with them.
 - **evalmy.page** — Landing-page evaluator that scores pages on human conversion and
   on how well AI assistants like ChatGPT, Claude and Perplexity can find them, with LLM-powered
   headline & CTA rewrites. Next.js · Supabase · Playwright · Polar payments · Vercel. (● live)
-- **farmane/** — Pixel-art browser games for the kids' birthdays: a farm-themed
-  journey from birth to the party, one per kid. (for fun)
+- **quintas/** (https://github.com/arturalkaim/quintas, engine repo only; game URLs stay private) —
+  Pixel-art platform games that tell a kid's life story, one level per year, with a birthday
+  cake after each. One engine, one file per kid, shared leaderboard, frame-hash regression tests.
+  JS · canvas. The games themselves are for the kids, not for the internet. (for the kids)
 - **brandbassador/** — Led iOS + Android development for an international
   ambassador-marketing platform. Ionic · Angular · Node. (syone · 2016–18)
 - **archive/** — reddal.gg (esports ladders; React · Node · MongoDB), beautify.pt, where-to-eat, and other retired experiments.
