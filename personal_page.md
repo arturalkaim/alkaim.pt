@@ -21,10 +21,10 @@ engineers to actually work with them.
 
 ### Work (ls ~/work)
 - **tripbuilder/** — Real-time personalised travel planning & booking. Payment-provider
-  integrations, scale, hundreds of features shipped while the company tripled.
+  integrations and platform scale — hundreds of features shipped while the company tripled.
   Scala · TS · MongoDB · AWS. (nezasa · 2018→)
 - **evalmy.page** — Landing-page evaluator — scores pages on human conversion and
-  AI-agent readiness (ChatGPT/Claude/Perplexity discoverability), with LLM-powered
+  on how well AI assistants like ChatGPT, Claude and Perplexity can find them, with LLM-powered
   headline & CTA rewrites. Next.js · Supabase · Playwright · Polar payments · Vercel. (● live)
 - **farmane/** — Pixel-art browser games for the kids' birthdays — a farm-themed
   journey from birth to the party, one per kid. (for fun)
