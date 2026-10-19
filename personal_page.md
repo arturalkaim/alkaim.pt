@@ -9,11 +9,13 @@ Design direction: "Phosphor" — terminal/monospace, dark-only, amber + cyan on 
 
 ### Hero
 Software engineer in Lisbon. Ten years across Scala, TypeScript, and the
-infrastructure underneath — currently squad tech lead at Nezasa, and teaching
-LLM agents to do real engineering work without breaking prod.
+infrastructure underneath — currently squad tech lead at Nezasa, teaching
+LLM agents to do real engineering work without breaking prod, and getting
+engineers to actually work with them.
 
 ### Now
 - Agentic dev tooling — review pipelines, verification harnesses, workflow orchestration on top of LLMs
+- AI adoption — helping developers bring AI tools into their day-to-day, and showing what works
 - Squad tech lead at Nezasa — payments, sourcing, and infrastructure for TripBuilder
 - Mentoring engineers · devops & on-call rotation
 
