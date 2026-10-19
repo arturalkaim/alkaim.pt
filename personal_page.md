@@ -48,7 +48,8 @@ engineers to actually work with them.
 Posts live at writing/<slug>.html, served at https://alkaim.pt/writing/<slug>.
 To publish: copy templates/post.html (not deployed), fill the {{…}} placeholders,
 write the body in <article>, then add a row (newest first) to the "ls ~/writing"
-list in index.html. Drafts can be .md — .assetsignore keeps *.md and templates/
+list in index.html, and add an <item> to feed.xml
+(newest first, bump lastBuildDate). Drafts can be .md — .assetsignore keeps *.md and templates/
 off the site.
 
 Posts:

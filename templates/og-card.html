@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!--
+  Source for og.png (1200x630 link-preview image). Not deployed.
+  Regenerate from the repo root:
+    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new \
+      --hide-scrollbars --window-size=1200,630 --screenshot=og.png templates/og-card.html
+-->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    :root {
+      --bg: #10151a;
+      --line: #223039;
+      --ink: #c8d3db;
+      --bright: #e8eef3;
+      --dim: #7d8c98;
+      --amber: #e2a13e;
+      --cyan: #58b7c3;
+    }
+    html, body { margin: 0; width: 1200px; height: 630px; overflow: hidden; }
+    body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "SF Mono", ui-monospace, Menlo, Consolas, monospace;
+      -webkit-font-smoothing: antialiased;
+    }
+    .card {
+      position: absolute; inset: 40px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 72px 80px;
+      display: flex; flex-direction: column;
+    }
+    .prompt { color: var(--dim); font-size: 28px; margin: 0 0 18px; }
+    .prompt .u { color: var(--cyan); }
+    h1 { color: var(--bright); font-size: 96px; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 28px; line-height: 1.05; }
+    .cursor { display: inline-block; width: 0.55em; height: 0.95em; background: var(--amber); vertical-align: -0.08em; margin-left: 18px; }
+    .lede { color: var(--ink); font-size: 32px; line-height: 1.5; margin: 0; }
+    .lede .a { color: var(--amber); }
+    .foot { margin-top: auto; display: flex; justify-content: space-between; font-size: 26px; color: var(--dim); }
+    .foot .url { color: var(--cyan); }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <p class="prompt"><span class="u">artur@alkaim.pt</span> ~ % whoami</p>
+    <h1>Artur Alkaim<span class="cursor"></span></h1>
+    <p class="lede">Software engineer in Lisbon.<br><span class="a">-&gt;</span> agentic dev tooling &middot; Scala &middot; TypeScript</p>
+    <div class="foot"><span class="url">alkaim.pt</span><span>squad tech lead @ Nezasa</span></div>
+  </div>
+</body>
+</html>
