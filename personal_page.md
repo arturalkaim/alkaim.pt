@@ -21,16 +21,24 @@ engineers to actually work with them.
 - Mentoring engineers · devops & on-call rotation
 
 ### Work (ls ~/work)
-- **tripbuilder/** — Real-time personalised travel planning & booking. Payment-provider
-  integrations and platform scale, with hundreds of features shipped while the company tripled.
-  Scala · TS · MongoDB · AWS. (nezasa · 2018→)
+- **tripbuilder/** — Travel planning & booking platform, eight years in. Led the rewrite of our
+  public frontend apps, Discovery and SmartPlanner, into one React monorepo, from the tech
+  specs to CI and quality gates, now in production with real clients. Responsible for payment integrations such as Stripe and Datatrans, plus AI hotel and
+  activity suggestions and infrastructure. Scala · TS · React · Next.js · MongoDB · AWS. (nezasa · 2018→)
+- **forge/** — Agent pipeline that takes a Jira ticket to a reviewed PR: investigate, attack the
+  plan, implement, verify. Co-built with a teammate; I built the dashboard and got the rest of
+  engineering using it. (nezasa · internal)
+- **translations-hub/** — Our internal localisation tool. AI pre-translates, translators review side
+  by side and open the PR in one click. Designed, built and maintained by me. Next.js · TS · AWS.
+  (nezasa · 2025→)
 - **evalmy.page** — Landing-page evaluator that scores pages on human conversion and
   on how well AI assistants like ChatGPT, Claude and Perplexity can find them, with LLM-powered
   headline & CTA rewrites. Next.js · Supabase · Playwright · Polar payments · Vercel. (● live)
-- **quintas/** (https://github.com/arturalkaim/quintas, engine repo only; game URLs stay private) —
+- **quintas/** (https://github.com/arturalkaim/quintas, engine repo + public Peter Pan demo https://quinta-do-peter.vercel.app; kids' game URLs stay private) —
   Pixel-art platform games that tell a kid's life story, one level per year, with a birthday
   cake after each. One engine, one file per kid, shared leaderboard, frame-hash regression tests.
-  JS · canvas. The games themselves are for the kids, not for the internet. (for the kids)
+  JS · canvas. The games themselves are for the kids, not for the internet, but you can play
+  the Peter Pan demo. (for the kids)
 - **brandbassador/** (links to https://club.co, the renamed platform) — Led iOS + Android development for an international
   ambassador-marketing platform, now called Club. Ionic · Angular · Node. (syone · 2016–18)
 - **archive/** — reddal.gg (esports ladders; React · Node · MongoDB), beautify.pt, where-to-eat, and other retired experiments.
